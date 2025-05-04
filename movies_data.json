@@ -245,19 +245,7 @@
         "country": "USA",
         "id": 15
     },
-    {
-        "name": "The Lion King",
-        "language": "English",
-        "genre": ["Animation", "Adventure", "Drama"],
-        "featured": false,
-        "cast": ["Matthew Broderick", "James Earl Jones", "Jeremy Irons"],
-        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_FMjpg_UX1000_.jpg",
-        "imdb": 8.5,
-        "runtime": 88,
-        "description": "A lion cub prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
-        "country": "USA",
-        "id": 16
-    },
+   
     {
         "name": "The Prestige",
         "language": "English",
@@ -439,42 +427,7 @@
         "country": "South Korea",
         "id": 30
     },
-    {
-        "name": "Love Life Lafda with Zakir Khan ",
-        
-        "genre": ["Drama"],
-        "latest": false,
-        "cast": ["Kim Min-hee", "Kim Tae-ri", "Ha Jung-woo"],
-        "imageUrl": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/7228/1739389847228-v",
-        "imdb": 8.1,
-        "country": "South Korea",
-        "id": 31
-    },
-    {
-        "name": "Victim ya victor with Rahul Dua",
-        
-        "genre": ["Drama", "Mystery", "Romance"],
-        "latest": false,
-        "cast": ["Kim Min-hee", "Kim Tae-ri", "Ha Jung-woo"],
-        "imageUrl": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/9345/1739469609345-i",
-        "imdb": 8.1,
-        
-        "country": "South Korea",
-        "id": 32
-    },
-    {
-        "name": "Game Of Greed",
-        
-        "genre": ["Drama", "Mystery", "Romance"],
-        "latest": false,
-        "cast": ["Kim Min-hee", "Kim Tae-ri", "Ha Jung-woo"],
-        "imageUrl": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/7134/1739394097134-v",
-        "imdb": 8.1,
-        
-        "country": "South Korea",
-        "id": 33
-    },
-    {
+   {
         "name": "Drive My Car",
         "language": "Japanese",
         "genre": ["Drama"],
@@ -515,25 +468,6 @@
         "description": "A mother seeks the truth behind her son’s erratic behavior, uncovering a deep mystery through different perspectives.",
         "country": "Japan",
         "id": 36
-    },{
-        "name": "Chhaava",
-        "language": "Hindi",
-        "genre": [
-            "Historical",
-            "Action"
-        ],
-        "featured": false,
-        "cast": [
-            "Vicky Kaushal",
-            "Rashmika Mandanna",
-            "Akshaye Khanna"
-        ],
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/75/Chhaava_film_poster.jpg",
-        "imdb": 7.9,
-        "runtime": 160,
-        "description": "A historical drama based on the life of Sambhaji, the second ruler of the Maratha Empire.",
-        "country": "India",
-        "id": 37
     },
     {
         "name": "Dhoom Dhaam",
