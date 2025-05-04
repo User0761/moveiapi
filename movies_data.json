@@ -53,26 +53,21 @@
         "country": "Japan",
         "id": 3
     },
-    {
+    
+     {
+        "id": 4,
         "name": "The Diplomat",
         "language": "Hindi",
-        "genre": [
-            "Action",
-            "Crime",
-            "Drama"
-        ],
+        "genre": ["Comedy", "Drama"],
         "featured": false,
-        "cast": [
-            "John Abrahm"
-        ],
+        "cast": ["John Abrahm"],
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDdkNDlhMmEtZGFiNi00YWY1LWFjODctZDM1NzA1YTY0YWQ5XkEyXkFqcGc@._V1_.jpg",
-        "videoUrl":"https://drive.google.com/file/d/11J5vkJ1Xb8XwlcYkPzVQ613zQG84h-nt/view?usp=sharing",
-        "imdb": 9.0,
-        "runtime": 152,
-        "description": "Batman faces his toughest challenge yet as he fights against the anarchist criminal mastermind, The Joker, who seeks to destroy Gotham City.",
-        "country": "India",
-        "id": 4
-    },
+        "videoUrl": "https://drive.google.com/file/d/11J5vkJ1Xb8XwlcYkPzVQ613zQG84h-nt/preview",
+        "imdb": 8.4,
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India"
+      },
     {
         "name": "La La Land",
         "language": "English",
@@ -96,26 +91,19 @@
         "id": 5
     },
     {
-        "name": "Coco",
-        "language": "English",
-        "genre": [
-            "Animation",
-            "Adventure",
-            "Family"
-        ],
+        "id": 6,
+        "name": "The Legends of The Hanuman S3",
+        "language": "Hindi",
+        "genre": ["Comedy", "Drama"],
         "featured": false,
-        "cast": [
-            "Anthony Gonzalez",
-            "Gael Garc\u00eda Bernal",
-            "Benjamin Bratt"
-        ],
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/98/Coco_%282017_film%29_poster.jpg",
+        "cast": ["John Abrahm"],
+        "imageUrl":"https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuTlStDvn2RwbT6c6dxJamE9atWS.jpg",
+        "videoUrl": "https://drive.google.com/file/d/1vLjp5F5ITyWgiPXLiMXsYvHWQhFVc0e-/preview",
         "imdb": 8.4,
-        "runtime": 105,
-        "description": "Despite his family's generations-old ban on music, young Miguel dreams of becoming a musician and embarks on a journey to the Land of the Dead.",
-        "country": "USA",
-        "id": 6
-    },
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India"
+      },
     {
         "name": "Skyforce",
         "language": "Hindi",
@@ -179,26 +167,19 @@
         "id": 9
     },
     {
-        "name": "Gladiator",
-        "language": "English",
-        "genre": [
-            "Action",
-            "Adventure",
-            "Drama"
-        ],
+        "id": 10,
+        "name": "Thunderbolts",
+        "language": "Hindi",
+        "genre": ["Comedy", "Drama"],
         "featured": false,
-        "cast": [
-            "Russell Crowe",
-            "Joaquin Phoenix",
-            "Connie Nielsen"
-        ],
-        "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/kyvvtzk0/poster/d/x/8/medium-gladiator-matte-finish-poster-urbanprint6311-original-imagbygdgnhbdj8z.jpeg?q=90&crop=false",
-        "imdb": 8.5,
-        "runtime": 155,
-        "description": "A betrayed Roman general fights for his freedom and honor in the gladiatorial arena while seeking vengeance against the corrupt emperor.",
-        "country": "USA",
-        "id": 10
-    },
+        "cast": ["John Abrahm"],
+        "imageUrl":"https://cdn.marvel.com/content/1x/thunderbolts_lob_crd_03.jpg",
+        "videoUrl": "https://drive.google.com/file/d/1FmOrUoorGFOXMvJnO7TqaYGz3sL5ebSF/preview",
+        "imdb": 8.4,
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India"
+      },
     {
         "name": "Interstellar",
         "language": "English",
