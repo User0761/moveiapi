@@ -16,30 +16,22 @@
             "runtime": 148,
             "description": "A skilled thief is given a chance at redemption if he can successfully perform an almost impossible task: planting an idea inside someone's subconscious.",
             "country": "USA"
-          }
-          
-      
-      ,
-    {
+          },
+   {
+        "id": 2,
         "name": "Hit The Third Case",
         "language": "Hindi",
-        "genre": [
-            "Drama",
-            "Thriller"
-        ],
+        "genre": ["Comedy", "Drama"],
         "featured": false,
-        "cast": [
-            "Nani",
-            "Srinidhi Shetty"
-        ],
+        "cast": ["Nani",
+            "Srinidhi Shetty"],
         "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/09/HIT_-_The_Third_Case.jpg",
-        "videoUrl":"https://drive.google.com/file/d/1fUjgSFJa8DJvCgK6_ex2UiEFa-w8gWeJ/view?usp=sharing",
-        "imdb": 8.6,
-        "runtime": 132,
-        "description": "HIT: The Third Case is a 2025 Indian Telugu-language action thriller film written and directed by Sailesh Kolanu. Produced by Prashanti Tipirneni and Nani under Wall Poster Cinema and Unanimous Productions, the film stars Nani and Srinidhi Shetty in the lead roles.",
-        "country": "India",
-        "id": 2
-    },
+        "videoUrl": "https://drive.google.com/file/d/1fUjgSFJa8DJvCgK6_ex2UiEFa-w8gWeJ/preview",
+        "imdb": 8.4,
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India"
+      },
     {
         "name": "Spirited Away",
         "language": "Japanese",
