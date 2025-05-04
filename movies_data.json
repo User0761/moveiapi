@@ -21,23 +21,23 @@
       
       ,
     {
-        "name": "Parasite",
-        "language": "Korean",
+        "name": "Hit The Third Case",
+        "language": "Hindi",
         "genre": [
             "Drama",
             "Thriller"
         ],
         "featured": false,
         "cast": [
-            "Song Kang-ho",
-            "Choi Woo-shik",
-            "Park So-dam"
+            "Nani",
+            "Srinidhi Shetty"
         ],
-        "imageUrl": "https://m.media-amazon.com/images/I/71O1C6AFpXL._AC_UF1000,1000_QL80_.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/09/HIT_-_The_Third_Case.jpg",
+        "videoUrl":"https://drive.google.com/file/d/1fUjgSFJa8DJvCgK6_ex2UiEFa-w8gWeJ/view?usp=sharing",
         "imdb": 8.6,
         "runtime": 132,
-        "description": "A poor family schemes to become employed by a wealthy household and infiltrate their lives through deception and clever tricks.",
-        "country": "South Korea",
+        "description": "HIT: The Third Case is a 2025 Indian Telugu-language action thriller film written and directed by Sailesh Kolanu. Produced by Prashanti Tipirneni and Nani under Wall Poster Cinema and Unanimous Productions, the film stars Nani and Srinidhi Shetty in the lead roles.",
+        "country": "India",
         "id": 2
     },
     {
@@ -62,8 +62,8 @@
         "id": 3
     },
     {
-        "name": "The Dark Knight",
-        "language": "English",
+        "name": "The Diplomat",
+        "language": "Hindi",
         "genre": [
             "Action",
             "Crime",
@@ -71,16 +71,14 @@
         ],
         "featured": false,
         "cast": [
-            "Christian Bale",
-            "Heath Ledger",
-            "Aaron Eckhart"
+            "John Abrahm"
         ],
-        "imageUrl": "https://m.media-amazon.com/images/I/81IfoBox2TL.jpg",
-        "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDdkNDlhMmEtZGFiNi00YWY1LWFjODctZDM1NzA1YTY0YWQ5XkEyXkFqcGc@._V1_.jpg",
+        "videoUrl":"https://drive.google.com/file/d/11J5vkJ1Xb8XwlcYkPzVQ613zQG84h-nt/view?usp=sharing",
         "imdb": 9.0,
         "runtime": 152,
         "description": "Batman faces his toughest challenge yet as he fights against the anarchist criminal mastermind, The Joker, who seeks to destroy Gotham City.",
-        "country": "USA",
+        "country": "India",
         "id": 4
     },
     {
