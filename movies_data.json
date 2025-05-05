@@ -33,26 +33,20 @@
         "country": "India"
       },
     {
-        "name": "Spirited Away",
-        "language": "Japanese",
-        "genre": [
-            "Animation",
-            "Adventure",
-            "Fantasy"
-        ],
+        "id": 3,
+        "name": "Mom Tane Nai Samjay",
+        "language": "Hindi",
+        "genre": ["Comedy", "Drama"],
         "featured": false,
-        "cast": [
-            "Rumi Hiiragi",
-            "Miyu Irino",
-            "Mari Natsuki"
-        ],
-        "imageUrl": "https://images-cdn.ubuy.co.in/633ff43ff6db4e59a7420611-yuttz-spirited-away-poster-japan-anime.jpg",
-        "imdb": 8.6,
-        "runtime": 125,
-        "description": "Chihiro, a sullen young girl, wanders into a mysterious world where she meets magical beings and learns to be brave and compassionate.",
-        "country": "Japan",
-        "id": 3
-    },
+        "cast": ["Nani",
+            "Srinidhi Shetty"],
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BODNmNjg0N2EtYzkyMS00YzlmLWE3YmEtNDRmZGQwNzQzNmE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "videoUrl": "https://drive.google.com/file/d/1c--361ZTw9bI3e_Gyr3dr1HyLCN436VN/preview",
+        "imdb": 8.4,
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India"
+      },
     
      {
         "id": 4,
@@ -289,18 +283,19 @@
         "id": 18
     },
     {
-        "name": "Pan's Labyrinth",
-        "language": "Spanish",
-        "genre": ["Drama", "Fantasy", "War"],
+        "id": 19,
+        "name": "Bhootni",
+        "language": "Hindi",
+        "genre": ["Comedy", "Drama"],
         "featured": false,
-        "cast": ["Ivana Baquero", "Sergi López", "Maribel Verdú"],
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9fbA0UxBJnKh7FaBw100Ek9A2cRPlzdcgMg&s",
-        "imdb": 8.2,
-        "runtime": 118,
-        "description": "A young girl in post-Civil War Spain discovers a magical labyrinth and faces dark forces while seeking refuge from her cruel stepfather.",
-        "country": "Spain",
-        "id": 19
-    },
+        "cast": ["Ajay Devgn"],
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/The_Bhootnii_poster.jpg",
+        "videoUrl": "https://drive.google.com/file/d/1NT9EJNYANZb6nQagGyYfBiumSm2yhK-Q/preview",
+        "imdb": 8.4,
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India"
+      },
     {
         "name": "The Intouchables",
         "language": "French",
@@ -504,22 +499,6 @@
         "runtime": 170,
         "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
         "country": "India"
-      },
-    {
-        "id": 33,
-        "name": "Bhootni",
-        "language": "Hindi",
-        "genre": ["Comedy", "Drama"],
-        "featured": false,
-        "cast": ["Ajay Devgn"],
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/The_Bhootnii_poster.jpg",
-        "videoUrl": "https://drive.google.com/file/d/1NT9EJNYANZb6nQagGyYfBiumSm2yhK-Q/preview",
-        "imdb": 8.4,
-        "runtime": 170,
-        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
-        "country": "India"
       }
     
-    
-
 ]
