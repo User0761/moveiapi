@@ -300,7 +300,7 @@
         "description": "A young girl in post-Civil War Spain discovers a magical labyrinth and faces dark forces while seeking refuge from her cruel stepfather.",
         "country": "Spain",
         "id": 19
-    }
+    },
     {
         "name": "The Intouchables",
         "language": "French",
@@ -450,9 +450,7 @@
         "runtime": 170,
         "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
         "country": "India"
-      }
-      
-,      
+    },    
     {
         "name": "Mickey 17",
         "language": "English",
