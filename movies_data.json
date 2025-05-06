@@ -1,22 +1,19 @@
 [
     
-        {
-            "id": 1,
-            "name": "Inception",
-            "language": "English",
-            "genre": ["Sci-Fi", "Thriller"],
-            "featured": true,
-            "cast": [
-              "Leonardo DiCaprio",
-              "Joseph Gordon-Levitt",
-              "Elliot Page"
-            ],
-            "imageUrl": "https://m.media-amazon.com/images/I/71thFiIUSpL._AC_UF894,1000_QL80_.jpg",
-            "imdb": 8.8,
-            "runtime": 148,
-            "description": "A skilled thief is given a chance at redemption if he can successfully perform an almost impossible task: planting an idea inside someone's subconscious.",
-            "country": "USA"
-          },
+       {
+        "id": 1,
+        "name": "The Bayuo",
+        "language": "Hindi",
+        "genre": ["Comedy", "Drama"],
+        "featured": false,
+        "cast": ["Ajay Devgn"],
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGQ5MGVmOWYtN2Y0NS00MWM5LWI1MjItNTI5NDdkNmRiMzkzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "videoUrl": "https://drive.google.com/file/d/1Xwz7j6uGloJfz3rLNSFiLA1YLzrML6dJ/preview",
+        "imdb": 8.4,
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India"
+      },
    {
         "id": 2,
         "name": "Hit The Third Case",
@@ -53,7 +50,7 @@
         "name": "The Diplomat",
         "language": "Hindi",
         "genre": ["Comedy", "Drama"],
-        "featured": false,
+        "featured": true,
         "cast": ["John Abrahm"],
         "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDdkNDlhMmEtZGFiNi00YWY1LWFjODctZDM1NzA1YTY0YWQ5XkEyXkFqcGc@._V1_.jpg",
         "videoUrl": "https://drive.google.com/file/d/11J5vkJ1Xb8XwlcYkPzVQ613zQG84h-nt/preview",
@@ -61,29 +58,21 @@
         "runtime": 170,
         "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
         "country": "India"
-      },
-    {
-        "name": "La La Land",
-        "language": "English",
-        "genre": [
-            "Drama",
-            "Musical",
-            "Romance"
-        ],
+      }, {
+        "id": 5,
+        "name": "Kaashi Raaghav",
+        "language": "Hindi",
+        "genre": ["Comedy", "Drama"],
         "featured": false,
-        "cast": [
-            "Ryan Gosling",
-            "Emma Stone",
-            "John Legend"
-        ],
-        "imageUrl": "https://m.media-amazon.com/images/I/81j4bDPgXQL.jpg",
-        "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
-        "imdb": 8.0,
-        "runtime": 128,
-        "description": "In Los Angeles, an aspiring actress and a dedicated jazz musician struggle to maintain their blossoming romance amid their professional aspirations.",
-        "country": "USA",
-        "id": 5
-    },
+        "cast": ["Nani",
+            "Srinidhi Shetty"],
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbAefWu9yVVuJ3Qq3nDCBQOF70k2gfqBH5Iw&s",
+        "videoUrl": "https://drive.google.com/file/d/1mV5v7gJkvFEQC_DSkNAdtpW6OvAjOL-X/preview",
+        "imdb": 8.4,
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India"
+      },
     {
         "id": 6,
         "name": "The Legends of The Hanuman S3",
@@ -117,27 +106,21 @@
         "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
         "country": "India",
         "id": 7
-    },
-    {
-        "name": "The Godfather",
-        "language": "English",
-        "genre": [
-            "Crime",
-            "Drama"
-        ],
+    },{
+        "id": 8,
+        "name": "Indiana Jones Dial Of Destiny",
+        "language": "Hindi",
+        "genre": ["Comedy", "Drama"],
         "featured": false,
-        "cast": [
-            "Marlon Brando",
-            "Al Pacino",
-            "James Caan"
-        ],
-        "imageUrl": "https://m.media-amazon.com/images/I/61k7Mx2IjzL.jpg",
-        "imdb": 9.2,
-        "runtime": 175,
-        "description": "The patriarch of an organized crime dynasty in New York City transfers control of his empire to his reluctant son.",
-        "country": "USA",
-        "id": 8
-    },
+        "cast": ["Nani",
+            "Srinidhi Shetty"],
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH2i4uu9jGtWqzWSukEDfO7_w7ly-yLh5YWA&s",
+        "videoUrl": "https://drive.google.com/file/d/1Dahn4n-XciWaTXaec7Irfa23mtbmO-Ro/preview",
+        "imdb": 8.4,
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India"
+      },
     {
         "name": "Your Name",
         "language": "Japanese",
@@ -187,20 +170,22 @@
         "runtime": 170,
         "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
         "country": "India"
-      },
-    {
-        "name": "The Grand Budapest Hotel",
-        "language": "English",
-        "genre": ["Comedy", "Adventure", "Drama"],
+      }
+    ,{
+        "id": 14,
+        "name": "Auntypreneur",
+        "language": "Hindi",
+        "genre": ["Comedy", "Drama"],
         "featured": false,
-        "cast": ["Ralph Fiennes", "Tony Revolori", "Saoirse Ronan"],
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Grand_Budapest_Hotel.png",
-        "imdb": 8.1,
-        "runtime": 99,
-        "description": "A concierge at a famous European hotel becomes embroiled in a murder mystery after inheriting a priceless painting.",
-        "country": "USA",
-        "id": 12
-    },
+        "cast": ["Nani",
+            "Srinidhi Shetty"],
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-G2lriNZA4lj2jXQAfNIFzAY9FJtRlFfg_g&s",
+        "videoUrl": "https://drive.google.com/file/d/1YBqZkaUCMzmgs_N-iA-zRvn5xfOoHsRM/preview",
+        "imdb": 8.4,
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India"
+      },
     {
         "name": "Pulp Fiction",
         "language": "English",
@@ -308,46 +293,7 @@
         "description": "An aristocrat becomes a quadriplegic from a paragliding accident and hires a young man from the projects to be his caregiver.",
         "country": "France",
         "id": 20
-    },
-    {
-        "name": "Life is Beautiful",
-        "language": "Italian",
-        "genre": ["Comedy", "Drama", "Romance"],
-        "featured": false,
-        "cast": ["Roberto Benigni", "Nicoletta Braschi", "Giorgio Cantarini"],
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7c/Vitaebella.jpg",
-        "imdb": 8.6,
-        "runtime": 116,
-        "description": "A father uses his wit and humor to shield his son from the horrors of a Nazi concentration camp during World War II.",
-        "country": "Italy",
-        "id": 21
-    },
-    {
-        "name": "Portrait of a Lady on Fire",
-        "language": "French",
-        "genre": ["Drama", "Romance"],
-        "featured": false,
-        "cast": ["Noémie Merlant", "Adèle Haenel", "Valeria Golino"],
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi3dgaRN845es6EJmLg3NBn60Q84_BZwI1Ug&s",
-        "imdb": 8.1,
-        "runtime": 120,
-        "description": "On an isolated island in 18th-century France, an artist falls in love with the woman she is commissioned to paint.",
-        "country": "France",
-        "id": 22
-    },
-    {
-        "name": "The Handmaiden",
-        "language": "Korean",
-        "genre": ["Drama", "Mystery", "Romance"],
-        "featured": false,
-        "cast": ["Kim Min-hee", "Kim Tae-ri", "Ha Jung-woo"],
-        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTllZDI1OGItOGUxNS00OGZhLWIzMjAtYzllZTY1YTA0ZmYwXkEyXkFqcGc@._V1_.jpg",
-        "imdb": 8.1,
-        "runtime": 145,
-        "country": "South Korea",
-        "id": 23
-    },
-   {
+    },{
         "name": "Drive My Car",
         "language": "Japanese",
         "genre": ["Drama"],
