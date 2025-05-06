@@ -32,7 +32,7 @@
     {
         "id": 3,
         "name": "Mom Tane Nai Samjay",
-        "language": "Hindi",
+        "language": "Gujarati",
         "genre": ["Comedy", "Drama"],
         "featured": false,
         "cast": ["Nani",
@@ -61,7 +61,7 @@
       }, {
         "id": 5,
         "name": "Kaashi Raaghav",
-        "language": "Hindi",
+        "language": "Gujarati",
         "genre": ["Comedy", "Drama"],
         "featured": false,
         "cast": ["Nani",
@@ -174,7 +174,7 @@
     ,{
         "id": 12,
         "name": "Auntypreneur",
-        "language": "Hindi",
+        "language": "Gujarati",
         "genre": ["Comedy", "Drama"],
         "featured": false,
         "cast": ["Nani",
