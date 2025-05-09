@@ -214,18 +214,20 @@
         "country": "India"
       },
     {
-        "name": "Schindler's List",
-        "language": "English",
-        "genre": ["Biography", "Drama", "History"],
+        "id": 15,
+        "name": "Umbroo",
+        "language": "Gujarati",
+        "genre": ["Comedy", "Drama"],
         "featured": false,
-        "cast": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"],
-        "imageUrl": "https://m.media-amazon.com/images/I/81+H4lZVw+L._AC_UF1000,1000_QL80_.jpg",
-        "imdb": 9.0,
-        "runtime": 195,
-        "description": "In German-occupied Poland during World War II, a businessman saves the lives of over a thousand Jewish refugees.",
-        "country": "USA",
-        "id": 15
-    },
+        "cast": ["Nani",
+            "Srinidhi Shetty"],
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzEzM2FkODAtMjU2OS00ZjA1LTg4MzYtZGRlNDAyMjg2MmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "videoUrl": "https://drive.google.com/file/d/1c--361ZTw9bI3e_Gyr3dr1HyLCN436VN/preview",
+        "imdb": 8.4,
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India"
+      },
         {
         "id": 16,
         "name": "Chhorii 2",
