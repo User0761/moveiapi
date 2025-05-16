@@ -1,21 +1,105 @@
 [
-    
-       {
+    {
         "id": 1,
-        "name": "The Bayuo",
+        "name": "Final Destination: Bloodlines",
+        "language": "Hindi",
+        "genre": ["Comedy", "Drama"],
+        "featured": true,
+        "cast": ["Ajay Devgn"],
+        "imageUrl": "https://www.santacruzcinema.com/wp-content/uploads/sites/2/2025/02/HO00001882.jpeg?w=1236",
+        "videoUrl": "https://drive.google.com/file/d/1Yi3RX9DLjVpTM5qREMeOUArM6pKDJyIJ/preview",
+        "imdb": 8.4,
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India"
+      },
+    {
+        "id": 2,
+        "name": "Last Bullet",
         "language": "Hindi",
         "genre": ["Comedy", "Drama"],
         "featured": false,
-        "cast": ["Ajay Devgn"],
-        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGQ5MGVmOWYtN2Y0NS00MWM5LWI1MjItNTI5NDdkNmRiMzkzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "videoUrl": "https://drive.google.com/file/d/1Xwz7j6uGloJfz3rLNSFiLA1YLzrML6dJ/preview",
+        "cast": ["Nani",
+            "Srinidhi Shetty"],
+        "imageUrl": "https://dnm.nflximg.net/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABfZPtduvOVBpXiG-B6tkxG3Pn_4TRFLNs0IMMEzH4cJZ9q0SAt4vKOKOwkolOeoPo9zDlyJZsPKssudZ06lwjhgYd1FC5rdsyMmHMHEsmc1jnYCsawWv_Lqb_zXWGynQCX7KMA.jpg?r=7aa",
+        "videoUrl": "https://drive.google.com/file/d/1sDvNkac4PNw5CLBgsmDOos9dl5tihMN-/preview",
+        "imdb": 8.4,
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India"
+      },{
+        "id": 3,
+        "name": "Minecraft Movie",
+        "language": "Hindi",
+        "genre": ["Comedy", "Drama"],
+        "featured": true,
+        "cast": ["Nani",
+            "Srinidhi Shetty"],
+        "imageUrl": "https://static.wikia.nocookie.net/ideas/images/2/25/MCMOVIE.png/revision/latest?cb=20241124115005",
+        "videoUrl": "https://drive.google.com/file/d/14ogAPBMErs5ayETR_fRHYDNBsv6fCir4/preview",
+        "imdb": 8.4,
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India"
+      },{
+        "id": 4,
+        "name": "Working Man",
+        "language": "Hindi",
+        "genre": ["Comedy", "Drama"],
+        "featured": true,
+        "cast": ["Nani",
+            "Srinidhi Shetty"],
+        "imageUrl": "https://cinematrace.com/wp-content/uploads/2025/03/169bbcbdb93babc2905e4fab5c8d66d5.jpg?w=1024",
+        "videoUrl": "https://drive.google.com/file/d/1IxcpTyRkXrToBFARgQhM1BHqLsdgO2_Q/preview",
+        "imdb": 8.4,
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India"
+      },{
+        "id": 5,
+        "name": "Ground Zero",
+        "language": "Hindi",
+        "genre": ["Comedy", "Drama"],
+        "featured": false,
+        "cast": ["Nani",
+            "Srinidhi Shetty"],
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2YxMTU1YzAtZjkzMC00YzU0LWFkMGQtYTIyYWQyODExODU0XkEyXkFqcGc@._V1_.jpg",
+        "videoUrl": "https://drive.google.com/file/d/1YPjmtqKdnxkfP-78X-N1bE1HsCmXdSPs/preview",
+        "imdb": 8.4,
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India"
+      },{
+        "id": 6,
+        "name": "Top Gun Maverick",
+        "language": "Hindi",
+        "genre": ["Comedy", "Drama"],
+        "featured": false,
+        "cast": ["Nani",
+            "Srinidhi Shetty"],
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Top_Gun_Maverick_Poster.jpg/250px-Top_Gun_Maverick_Poster.jpg",
+        "videoUrl": "https://drive.google.com/file/d/15gJbSbLDFQCesHX1zjp5oXGsuHzPWsPu/preview",
+        "imdb": 8.4,
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India"
+      },{
+        "id": 7,
+        "name": "The Brutalist",
+        "language": "Hindi",
+        "genre": ["Comedy", "Drama"],
+        "featured": true,
+        "cast": ["Nani",
+            "Srinidhi Shetty"],
+        "imageUrl": "https://pics.filmaffinity.com/The_Brutalist-796510218-large.jpg",
+        "videoUrl": "https://drive.google.com/file/d/11veqWs1uXKT0Oj7Ter8L8idYn_z4-sHj/preview",
         "imdb": 8.4,
         "runtime": 170,
         "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
         "country": "India"
       },
    {
-        "id": 2,
+        "id": 8,
         "name": "Hit The Third Case",
         "language": "Hindi",
         "genre": ["Comedy", "Drama"],
@@ -30,7 +114,7 @@
         "country": "India"
       },
     {
-        "id": 3,
+        "id": 9,
         "name": "Mom Tane Nai Samjay",
         "language": "Gujarati",
         "genre": ["Comedy", "Drama"],
@@ -46,7 +130,7 @@
       },
     
      {
-        "id": 4,
+        "id": 10,
         "name": "The Diplomat",
         "language": "Hindi",
         "genre": ["Comedy", "Drama"],
@@ -59,7 +143,7 @@
         "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
         "country": "India"
       }, {
-        "id": 5,
+        "id": 11,
         "name": "Kaashi Raaghav",
         "language": "Gujarati",
         "genre": ["Comedy", "Drama"],
@@ -74,7 +158,7 @@
         "country": "India"
       },
     {
-        "id": 6,
+        "id": 12,
         "name": "The Legends of The Hanuman S3",
         "language": "Hindi",
         "genre": ["Comedy", "Drama"],
@@ -87,31 +171,25 @@
         "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
         "country": "India"
       },
-    {
-        "name": "Skyforce",
-        "language": "Hindi",
-        "genre": [
-            "Comedy",
-            "Drama"
-        ],
-        "featured": false,
-        "cast": [
-            "Aamir Khan",
-            "R. Madhavan",
-            "Sharman Joshi"
-        ],
-        "imageUrl": "https://assets.gadgets360cdn.com/pricee/assets/product/202501/sky_force1_1736235820.jpg?downsize=215:301",
-        "imdb": 8.4,
-        "runtime": 170,
-        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
-        "country": "India",
-        "id": 7
-    },{
-        "id": 8,
-        "name": "Indiana Jones Dial Of Destiny",
+     {
+        "id": 13,
+        "name": "Indiana Jones and The Kingdom of the Crystal Skull",
         "language": "Hindi",
         "genre": ["Comedy", "Drama"],
         "featured": false,
+        "cast": ["Ajay Devgn"],
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d5/Kingdomofthecrystalskull.jpg",
+        "videoUrl": "https://drive.google.com/file/d/12Q0If2NC6c6mJ7TCAr2mv0JuD_JgfZbV/preview",
+        "imdb": 8.4,
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India"
+      },{
+        "id": 14,
+        "name": "Indiana Jones Dial Of Destiny",
+        "language": "Hindi",
+        "genre": ["Comedy", "Drama"],
+        "featured": true,
         "cast": ["Nani",
             "Srinidhi Shetty"],
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH2i4uu9jGtWqzWSukEDfO7_w7ly-yLh5YWA&s",
@@ -141,14 +219,14 @@
         "runtime": 106,
         "description": "Two teenagers mysteriously swap bodies and must find a way to meet and change their destinies before disaster strikes.",
         "country": "Japan",
-        "id": 9
+        "id": 15
     },
     {
-        "id": 10,
+        "id": 16,
         "name": "Thunderbolts",
         "language": "Hindi",
         "genre": ["Comedy", "Drama"],
-        "featured": false,
+        "featured": true,
         "cast": ["John Abrahm"],
         "imageUrl":"https://cdn.marvel.com/content/1x/thunderbolts_lob_crd_03.jpg",
         "videoUrl": "https://drive.google.com/file/d/1FmOrUoorGFOXMvJnO7TqaYGz3sL5ebSF/preview",
@@ -158,7 +236,7 @@
         "country": "India"
       },
    {
-        "id": 11,
+        "id": 17,
         "name": "Kesari Chapter 2",
         "language": "Hindi",
         "genre": ["History", "Drama"],
@@ -170,9 +248,8 @@
         "runtime": 170,
         "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
         "country": "India"
-      }
-    ,{
-        "id": 12,
+      },{
+        "id": 18,
         "name": "Auntypreneur",
         "language": "Gujarati",
         "genre": ["Comedy", "Drama"],
@@ -197,14 +274,14 @@
         "runtime": 154,
         "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in a series of incidents.",
         "country": "USA",
-        "id": 13
+        "id": 19
     },
      {
-        "id": 14,
+        "id": 20,
         "name": "Ghostbusters: Frozon Empire",
         "language": "Hindi",
         "genre": ["History", "Drama"],
-        "featured": false,
+        "featured": true,
         "cast": ["Akshay Kumar"],
         "imageUrl":"https://beacon.nwciowa.edu/wp-content/uploads/2024/04/Ghostbusters.jpg",
         "videoUrl": "https://drive.google.com/file/d/1xwv130TctbOCF1wiMrIhYXYEfLASUF5q/preview",
@@ -214,7 +291,7 @@
         "country": "India"
       },
     {
-        "id": 15,
+        "id": 21,
         "name": "Umbroo",
         "language": "Gujarati",
         "genre": ["Comedy", "Drama"],
@@ -229,11 +306,11 @@
         "country": "India"
       },
         {
-        "id": 16,
+        "id": 22,
         "name": "Chhorii 2",
         "language": "Hindi",
         "genre": ["History", "Drama"],
-        "featured": false,
+        "featured": true,
         "cast": ["Akshay Kumar"],
         "imageUrl":"https://m.media-amazon.com/images/M/MV5BNTFhOTE4MWItZTdmZS00NTI0LTliM2ItNTM4ZjM5MjE0MTYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "videoUrl": "https://drive.google.com/file/d/12Hm5NHgAIoXmvgQShTn1EnBqfb9uXWAm/preview",
@@ -243,11 +320,11 @@
         "country": "India"
       },
          {
-        "id": 17,
+        "id": 23,
         "name": "Captain America Brave New World",
         "language": "Hindi",
         "genre": ["History", "Drama"],
-        "featured": false,
+        "featured": true,
         "cast": ["Akshay Kumar"],
         "imageUrl":"https://m.media-amazon.com/images/S/pv-target-images/01543132fb7170a25b52bec11d1f3413b6d3345bb28646be8cd79c9f7b4dccc4.jpg",
         "videoUrl": "https://drive.google.com/file/d/1K-PSHoIYtA-w-IbCpAwjip6OPt1LNLbZ/preview",
@@ -267,10 +344,10 @@
         "runtime": 106,
         "description": "A young drummer's pursuit of perfection in the world of jazz music leads to a tense relationship with his mentor.",
         "country": "USA",
-        "id": 18
+        "id": 24
     },
     {
-        "id": 19,
+        "id": 25,
         "name": "Bhootni",
         "language": "Hindi",
         "genre": ["Comedy", "Drama"],
@@ -294,7 +371,7 @@
         "runtime": 112,
         "description": "An aristocrat becomes a quadriplegic from a paragliding accident and hires a young man from the projects to be his caregiver.",
         "country": "France",
-        "id": 20
+        "id": 26
     },{
         "name": "Drive My Car",
         "language": "Japanese",
@@ -307,7 +384,7 @@
         "releaseYear": 2021,
         "description": "A stage actor and director dealing with personal loss forms an unexpected bond with his reserved chauffeur.",
         "country": "Japan",
-        "id": 21
+        "id": 27
     },
     {
         "name": "Suzume",
@@ -321,7 +398,7 @@
         "releaseYear": 2022,
         "description": "A young girl named Suzume embarks on a magical journey across Japan to close mysterious doors that unleash disasters.",
         "country": "Japan",
-        "id": 22
+        "id": 28
     },
     {
         "name": "Monster",
@@ -335,7 +412,7 @@
         "releaseYear": 2023,
         "description": "A mother seeks the truth behind her son’s erratic behavior, uncovering a deep mystery through different perspectives.",
         "country": "Japan",
-        "id": 23
+        "id": 29
     },
   
     {
@@ -356,7 +433,7 @@
         "runtime": 160,
         "description": "A historical drama based on the life of Sambhaji, the second ruler of the Maratha Empire.",
         "country": "India",
-        "id": 24
+        "id": 30
     },
     {
         "name": "Skyforce",
@@ -377,11 +454,11 @@
         "runtime": 170,
         "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
         "country": "India",
-        "id": 25
+        "id": 31
     },
     
     {
-        "id": 26,
+        "id": 32,
         "name": "The Monkey",
         "language": "Hindi",
         "genre": ["Comedy", "Drama"],
@@ -413,7 +490,7 @@
         "runtime": 170,
         "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
         "country": "India",
-        "id": 27
+        "id": 33
     },
     {
         "name": "Nosferatu",
@@ -433,17 +510,30 @@
         "runtime": 170,
         "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
         "country": "India",
-        "id": 28
+        "id": 34
     },
     {
-        "id": 29,
+        "id": 35,
         "name": "Raid 2",
+        "language": "Hindi",
+        "genre": ["Comedy", "Drama"],
+        "featured": true,
+        "cast": ["Ajay Devgn"],
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/82/Raid_2_poster.jpg",
+        "videoUrl": "https://drive.google.com/file/d/1vzgwT_GffTY1dj3VBNRuTo3ctWWoIJ8k/preview",
+        "imdb": 8.4,
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India"
+      },{
+        "id": 36,
+        "name": "The Bayuo",
         "language": "Hindi",
         "genre": ["Comedy", "Drama"],
         "featured": false,
         "cast": ["Ajay Devgn"],
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/82/Raid_2_poster.jpg",
-        "videoUrl": "https://drive.google.com/file/d/1vzgwT_GffTY1dj3VBNRuTo3ctWWoIJ8k/preview",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGQ5MGVmOWYtN2Y0NS00MWM5LWI1MjItNTI5NDdkNmRiMzkzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "videoUrl": "https://drive.google.com/file/d/1Xwz7j6uGloJfz3rLNSFiLA1YLzrML6dJ/preview",
         "imdb": 8.4,
         "runtime": 170,
         "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
