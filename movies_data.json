@@ -649,6 +649,19 @@
         "runtime": 170,
         "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
         "country": "India"
+      },{
+        "id": 46,
+        "name": "All The Best Pandya",
+        "language": "Gujarati",
+        "genre": ["Comedy", "Drama"],
+        "featured": true,
+        "cast": ["Ajay Devgn"],
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMThhMzg1NjUtMWY3OS00NTZiLWEyZDctMTg2YmNhNzAwNTQxXkEyXkFqcGc@._V1_.jpg",
+        "videoUrl": "https://drive.google.com/file/d/1ozgtEFNUN_3qRJFbP82upDSP9CNqwQpD/preview",
+        "imdb": 8.4,
+        "runtime": 170,
+        "description": "Two friends embark on a journey to find their long-lost companion who inspired them to think differently in the competitive world of education.",
+        "country": "India"
       }
     
 ]
